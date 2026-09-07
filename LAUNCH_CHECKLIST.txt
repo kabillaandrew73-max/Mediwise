@@ -1,0 +1,49 @@
+MEDIWISE V14 — LAUNCH CHECKLIST
+================================
+
+STATUS: Launch-ready static package, pending account/domain setup and final live-site checks.
+
+1. UPLOAD
+- Upload the contents of this folder to a GitHub repository.
+- Keep index.html in the repository root.
+- GitHub Pages can publish a static repository directly.
+
+2. GITHUB PAGES
+- Repository Settings -> Pages.
+- Build and deployment -> Source: Deploy from a branch.
+- Select the main branch and /(root), then Save.
+- The site will receive a github.io address.
+
+3. DOMAIN
+- Do not publish with the placeholder domain in robots.txt/sitemap.xml.
+- After choosing a real domain, replace YOUR-MEDIWISE-DOMAIN.example in:
+  robots.txt
+  sitemap.xml
+- Add the custom domain in GitHub Pages Settings.
+- Verify the domain and enable HTTPS.
+
+4. BRAND/SOCIAL
+- Replace placeholder social/profile URLs in the HTML with official MediWise accounts.
+- Add the official WhatsApp Channel URL when created.
+- Add the official contact email.
+
+5. CONTENT QA
+- Review medical/medicine content against current Ghana Health Service and WHO guidance before publication.
+- Keep the educational disclaimer visible.
+- Do not present student educational content as personalized diagnosis or treatment.
+
+6. LIVE QA
+- Test Home, Health, Med, Nutrition, Facts/Verify, Academy, Clinical Hub, Cases, Labs, ECG, Quiz, Dashboard and Ghana resources.
+- Test search and all quiz/course interactions.
+- Test mobile and desktop layouts.
+- Check every navigation link.
+- Check HTTPS and custom-domain redirects after DNS setup.
+
+7. LAUNCH
+- Publish.
+- Open the live URL in an incognito window.
+- Test from both Wi-Fi and mobile data.
+- Share the official launch post only after the live-site checks pass.
+
+MediWise — Learn • Verify • Empower
+Founder: Kabilla Andrew
