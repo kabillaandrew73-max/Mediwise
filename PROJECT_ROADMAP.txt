@@ -1,0 +1,8 @@
+MEDIWISE ROADMAP — V11
+
+NOW: Academy 2.0, course modules, Verify centre, local study tracking.
+NEXT: lesson-specific interactive quizzes, large flashcard decks, spaced-repetition scheduling, evidence/source panels, article review dates, stronger Ghana-specific guidance, accessibility/performance audit, social content templates, deployment/domain configuration.
+
+Brand: MEDIWISE
+Tagline: LEARN • VERIFY • EMPOWER
+Founder: Kabilla Andrew

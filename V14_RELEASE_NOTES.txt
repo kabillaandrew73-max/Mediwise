@@ -1,0 +1,23 @@
+MEDIWISE MAIN PROJECT V14
+
+V14 focuses on finishing the clinical-academic platform layer.
+
+Added:
+- Clinical Case Bank and 3 structured cases
+- Vital Signs Lab
+- Laboratory Learning reference
+- ECG Fundamentals
+- Medical Terminology Dictionary
+- Clinical Foundations Exam Mode page
+- Physician Assistant Student Pathway
+- Integrated V14 links on core learning pages
+- Preserved all V13 content and files
+
+Positioning:
+MediWise is an educational health-literacy and health-science learning platform. It is not a diagnostic or prescribing service.
+
+Founder:
+Kabilla Andrew
+
+Tagline:
+Learn • Verify • Empower

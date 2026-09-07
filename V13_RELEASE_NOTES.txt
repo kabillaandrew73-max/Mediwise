@@ -1,0 +1,20 @@
+MEDIWISE V13 — CLINICAL & ACADEMIC INTELLIGENCE UPGRADE
+
+Added:
+- Clinical Learning Hub
+- Structured Case Bank
+- Vital Signs Lab
+- Laboratory Learning Reference
+- OSCE Practice Lab
+- Timed Clinical Foundations Exam Mode
+- Clinical Comparison tables
+- Expanded navigation integration
+
+Design principle:
+Learn -> Reason -> Test -> Review -> Revise
+
+Safety:
+Educational use only. Physical examination and procedures require qualified supervision. Laboratory ranges and clinical decisions must use current local/institutional guidance.
+
+Evidence direction:
+WHO health-literacy and digital health education publications informed the platform direction.

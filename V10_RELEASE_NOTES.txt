@@ -1,0 +1,1 @@
+MediWise V10 adds a structured Academy learning system: four lesson modules, quick checks, flashcards, local study dashboard, session counter, and improved learning-hub navigation. Educational content is intentionally framed as study material and should be checked against institutional curriculum and authoritative clinical guidance.

@@ -1,0 +1,14 @@
+MEDIWISE MAIN PROJECT V11
+
+V11 turns the Academy into a structured learning hub, adds four new foundation courses, introduces MediWise Verify, upgrades the local study dashboard, and strengthens the Learn -> Test -> Revise workflow.
+
+New pages:
+- verify.html
+- pathophysiology-101.html
+- microbiology-101.html
+- medical-terminology-101.html
+- study-skills-101.html
+- upgraded academy.html
+- upgraded study-dashboard.html
+
+The project remains a static educational website. Clinical decisions must rely on qualified professionals and current applicable guidance.

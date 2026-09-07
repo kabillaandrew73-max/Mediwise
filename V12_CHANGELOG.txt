@@ -1,0 +1,18 @@
+MEDIWISE MAIN PROJECT V12
+
+Major upgrade: Intensive Learning Platform
+
+1. Added course-player.html with a reusable interactive learning engine.
+2. Added 8 structured Academy courses with 6 modules each.
+3. Added 48 learning modules total.
+4. Added 144 quick-check questions total (3 per module).
+5. Added module completion tracking with localStorage.
+6. Added best-score tracking for each module.
+7. Added automatic course progress percentages.
+8. Added weak-module/revision queue to Student Dashboard.
+9. Added overall mastery, modules completed and average score statistics.
+10. Academy course cards now launch the interactive course player.
+11. Added V12 learning UI: module navigation, progress bars, feedback cards and completion flow.
+12. Preserved the existing MediWise Health, Med, Nutrition, Verify, Ghana, quiz, flashcard and library sections.
+
+Note: This is an educational static site. Progress is stored locally in the user's browser. Clinical decisions require qualified supervision and current clinical guidance.
